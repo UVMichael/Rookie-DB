@@ -1,2 +1,2 @@
 # Rookie-DB
-Database implementation in java which supports B+ tree indices, efficient join algorithms, query optimization, multigranularity locking to allow concurrent execution of transactions, and database recovery.
+Optimized a vanilla DBMS by implementing B+tree indexing, efficient join algoriths, improved performance by introducing concurrency and query optimization which resembles IBM System R, transaction and concurrency control with uses both coarse and fine granularity to allow high performance and high concurrency, and ARIES recovery to improve performance while maintaining the ACID properties and guarantee fault tolerance.
